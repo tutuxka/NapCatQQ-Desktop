@@ -6,7 +6,7 @@
 这个项目是为 [NapCatQQ](https://github.com/NapNeko/NapCatQQ) 提供的图形用户界面（GUI），目的是让用户能够更快速、更直观地创建配置文件和启动脚本
 
 ## 如何使用
-现在核心功能已经开发完毕, 如果想使用请在 Actions 下载测试版, 目前还在测 bug 🥰
+现在核心功能已经开发完毕, 如果想使用请在 Actions 下载测试版, 目前还在测 bug 呢🥰
 
 ## TODO
  - 实现引导(新手指引, 指引安装 NapCat, QQ 等)
